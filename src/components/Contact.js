@@ -1,4 +1,5 @@
 import React from 'react';
+import resume from "../assets/images/hokeiching_resume.pdf";
 
 const Contact = () => {
     return (
@@ -13,7 +14,7 @@ const Contact = () => {
                             <a href="https://github.com/snowcrashcode"><i className="fa-brands fa-github"></i></a>
                             <a href="https://www.linkedin.com/in/ho-k-83162a298/"><i className="fa-brands fa-linkedin"></i></a>
                         </div>
-                        <a href="images/resume.pdf" download className="btn btn2">Download Resume</a>
+                        <a href={resume} download className="btn btn2">Download Resume</a>
                     </div>
                     <div className="contact-right">
                         <form name="submit-to-google-sheet">

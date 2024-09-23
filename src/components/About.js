@@ -14,7 +14,7 @@ const About = () => {
             <div className="container">
                 <div className="row">
                     <div className="about-col-1">
-                        <img src={`${process.env.PUBLIC_URL}/images/snowcrash.png`} alt="About Me" />
+                        <img src={snowcrashImage} alt="About Me" />
                     </div>
                     <div className="about-col-2">
                         <h1 className="sub-title">About Me</h1>
