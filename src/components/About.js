@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import snowcrashImage from "../assets/images/snowcrash.png";
 
 const About = () => {
     const [activeTab, setActiveTab] = useState('skills');  // State to track the active tab
@@ -13,7 +14,7 @@ const About = () => {
             <div className="container">
                 <div className="row">
                     <div className="about-col-1">
-                        <img src="images/snowcrash.png" alt="About Me" />
+                        <img src={`${process.env.PUBLIC_URL}/images/snowcrash.png`} alt="About Me" />
                     </div>
                     <div className="about-col-2">
                         <h1 className="sub-title">About Me</h1>
