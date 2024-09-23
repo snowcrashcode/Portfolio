@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.fbebdaa1.css",
-    "main.js": "/Portfolio/static/js/main.69871e91.js",
+    "main.css": "/Portfolio/static/css/main.3b14265f.css",
+    "main.js": "/Portfolio/static/js/main.6b79b60c.js",
     "static/media/snowcrash.png": "/Portfolio/static/media/snowcrash.fcd6e7db673ea311b021.png",
-    "static/media/background_new.jpg": "/Portfolio/static/media/background_new.affb47161c88f7ac95a0.jpg",
     "static/media/phone-background.png": "/Portfolio/static/media/phone-background.6abc618c4c3e00e62e46.png",
+    "static/media/background_new.png": "/Portfolio/static/media/background_new.b88dce4d8c0c9847d90f.png",
+    "static/media/hokeiching_resume.pdf": "/Portfolio/static/media/hokeiching_resume.46fbba6aa9ac8b6ef0af.pdf",
     "index.html": "/Portfolio/index.html",
-    "main.fbebdaa1.css.map": "/Portfolio/static/css/main.fbebdaa1.css.map",
-    "main.69871e91.js.map": "/Portfolio/static/js/main.69871e91.js.map"
+    "main.3b14265f.css.map": "/Portfolio/static/css/main.3b14265f.css.map",
+    "main.6b79b60c.js.map": "/Portfolio/static/js/main.6b79b60c.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbebdaa1.css",
-    "static/js/main.69871e91.js"
+    "static/css/main.3b14265f.css",
+    "static/js/main.6b79b60c.js"
   ]
 }
